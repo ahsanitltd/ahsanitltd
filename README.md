@@ -4,7 +4,7 @@ Here’s an updated and more detailed README for **Ahsan IT Ltd**, incorporating
 
 # 🌟 Ahsan IT Ltd
 
-![Ahsan IT Ltd Logo](https://example.com/logo.png)
+![Ahsan IT Ltd Logo]([https://example.com/logo.png](https://avatars.githubusercontent.com/u/70191364?s=400&u=69f9b76d5c68da6450421ba7bf289877503e14cf&v=4))
 
 Welcome to **Ahsan IT Ltd**, a software development company offering cutting-edge web and mobile solutions. We focus on **Laravel** for backend development and use diverse modern technologies for the frontend. Our goal is to provide robust, scalable, and customized software solutions tailored to meet the dynamic needs of businesses.
 
