@@ -3,9 +3,9 @@ Here’s an updated and more detailed README for **Ahsan IT Ltd**, incorporating
 ---
 
 # 🌟 Ahsan IT Ltd
-
-![Ahsan IT Ltd Logo]([https://avatars.githubusercontent.com/u/70191364?s=400&u=69f9b76d5c68da6450421ba7bf289877503e14cf&v=4])
-
+  <a href="https://github.com/Ahsanjuly29">
+    <img src="https://avatars.githubusercontent.com/u/70191364?s=400&u=69f9b76d5c68da6450421ba7bf289877503e14cf&v=4" alt="GitHub followers">
+  </a>
 
 Welcome to **Ahsan IT Ltd**, a software development company offering cutting-edge web and mobile solutions. We focus on **Laravel** for backend development and use diverse modern technologies for the frontend. Our goal is to provide robust, scalable, and customized software solutions tailored to meet the dynamic needs of businesses.
 
@@ -37,9 +37,9 @@ We specialize in building applications using modern technologies:
 
 ## 🏆 Noteworthy Projects
 
-1. **[Task Management System](https://github.com/ahsanitltd/task-management)**: Efficient task tracking with role-based access.
+<!-- 1. **[Task Management System](https://github.com/ahsanitltd/task-management)**: Efficient task tracking with role-based access.
 2. **[Finance Management System](https://github.com/ahsanitltd/finance-manager)**: Comprehensive personal finance tracker.
-3. **[E-commerce Platform](https://github.com/ahsanitltd/ecommerce)**: Scalable and customizable e-commerce solution.
+3. **[E-commerce Platform](https://github.com/ahsanitltd/ecommerce)**: Scalable and customizable e-commerce solution. -->
 
 ---
 
@@ -79,8 +79,8 @@ We actively collaborate with our community using GitHub’s **Issues** and **Dis
 
 Explore our live projects to experience the quality of our work:
 
-- **[Task Manager](https://live.example.com/task-manager)**
-- **[Finance Manager](https://live.example.com/finance-manager)**
+<!-- - **[Task Manager](https://live.example.com/task-manager)**
+- **[Finance Manager](https://live.example.com/finance-manager)** -->
 
 ---
 
